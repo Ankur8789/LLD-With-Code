@@ -47,7 +47,7 @@ class PizzaShopProxy implements PizzaService {
 }
 
 // Client
-public class ProxyPatternPizza {
+public class proxy {
     public static void main(String[] args) {
 
         PizzaService pizzaService = new PizzaShopProxy();
